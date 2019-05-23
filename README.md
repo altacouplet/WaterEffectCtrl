@@ -1,5 +1,5 @@
 # WaterEffectCtrl
-魚が水面に入る時に水滴が飛ぶコード
+魚が水面と衝突時に水滴が飛ぶ
 
 ![sakana](https://github.com/altacouplet/WaterEffectCtrl/blob/master/images/sakana.png)
 
